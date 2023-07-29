@@ -1,0 +1,25 @@
+{
+  "name": "folha-mangas",
+  "version": "1.0.0",
+  "description": "a backend of website to read mangas and webtoons",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruunoob/folhamangas.git"
+  },
+  "author": "guruunoob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruunoob/folhamangas/issues"
+  },
+  "homepage": "https://github.com/guruunoob/folhamangas#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
